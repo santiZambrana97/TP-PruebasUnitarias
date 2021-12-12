@@ -1,0 +1,25 @@
+{
+  "name": "tp6-pruebasunitarias",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con jest",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustoComeglio/TP6-PruebasUnitarias.git"
+  },
+  "author": "Augusto Comeglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustoComeglio/TP6-PruebasUnitarias/issues"
+  },
+  "homepage": "https://github.com/AugustoComeglio/TP6-PruebasUnitarias#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
